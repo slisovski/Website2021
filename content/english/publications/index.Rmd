@@ -1,0 +1,6 @@
+---
+title: "List of publications"
+output: html_document
+bibliography: mybib.bib
+nocite: '@*'
+---

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutorials on Simeon Lisovski</title>
+    <link>/tutorials/</link>
+    <description>Recent content in Tutorials on Simeon Lisovski</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 11 Apr 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tutorials/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Animal tracks on the globe with R</title>
+      <link>/tutorials/simmove/</link>
+      <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tutorials/simmove/</guid>
+      <description>Tutorial (all detailes will follow shortly) I recently submitted a simulation of migrating Bar-tailed godwits (Limosa lapponica) to a vizualisation competition initiated by the BES Movement Ecology SIG.</description>
+    </item>
+    
+  </channel>
+</rss>

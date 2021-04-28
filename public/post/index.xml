@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Simeon Lisovski</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Simeon Lisovski</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 11 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Light‐Level Geolocator Analyses: A user&#39;s guide</title>
+      <link>/post/geolocationuserguide/index/</link>
+      <pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/geolocationuserguide/index/</guid>
+      <description>Established in 1987, the ARGOS system allowed the world-wide tracking of animals equipped with satellite transmitters.</description>
+    </item>
+    
+    <item>
+      <title>How our ‘Avian Athlets’ could spread influenza</title>
+      <link>/post/virusstints/index/</link>
+      <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/virusstints/index/</guid>
+      <description>The migration of these small birds is fraught with difficulties, and most species will stop along the way to refuel.</description>
+    </item>
+    
+    <item>
+      <title>Mitigating conflicts between agriculture and migratory geese: is shooting a viable option or just passing on the problem?</title>
+      <link>/post/huntingmodel/index/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/huntingmodel/index/</guid>
+      <description>Following the recent article, Shooting may aggravate rather than alleviate conflicts between migratory geese and agriculture, Silke Bauer explains why management plans for migratory goose populations need to be considered across a broader scale.</description>
+    </item>
+    
+  </channel>
+</rss>

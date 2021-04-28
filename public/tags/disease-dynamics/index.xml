@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Disease dynamics on Simeon Lisovski</title>
+    <link>/tags/disease-dynamics/</link>
+    <description>Recent content in Disease dynamics on Simeon Lisovski</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 29 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/disease-dynamics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How our ‘Avian Athlets’ could spread influenza</title>
+      <link>/post/virusstints/index/</link>
+      <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/virusstints/index/</guid>
+      <description>The migration of these small birds is fraught with difficulties, and most species will stop along the way to refuel.</description>
+    </item>
+    
+  </channel>
+</rss>

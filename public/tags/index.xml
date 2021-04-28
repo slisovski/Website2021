@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Simeon Lisovski</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Simeon Lisovski</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 11 Apr 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>migration</title>
+      <link>/tags/migration/</link>
+      <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/migration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>/tags/r/</link>
+      <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wind</title>
+      <link>/tags/wind/</link>
+      <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/wind/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>geolocation</title>
+      <link>/tags/geolocation/</link>
+      <pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/geolocation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disease dynamics</title>
+      <link>/tags/disease-dynamics/</link>
+      <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/disease-dynamics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shorebirds</title>
+      <link>/tags/shorebirds/</link>
+      <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/shorebirds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal migration</title>
+      <link>/tags/optimal-migration/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/optimal-migration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic dynamic programing</title>
+      <link>/tags/stochastic-dynamic-programing/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/stochastic-dynamic-programing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>index</title>
+      <link>/tags/index/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/index/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
