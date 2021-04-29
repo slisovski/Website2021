@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shorebirds on Simeon Lisovski</title>
-    <link>/tags/shorebirds/</link>
+    <link>https://slisovski.rbind.io/tags/shorebirds/</link>
     <description>Recent content in Shorebirds on Simeon Lisovski</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 29 Aug 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/shorebirds/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://slisovski.rbind.io/tags/shorebirds/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>How our ‘Avian Athlets’ could spread influenza</title>
-      <link>/post/virusstints/index/</link>
+      <link>https://slisovski.rbind.io/post/virusstints/index/</link>
       <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/virusstints/index/</guid>
+      <guid>https://slisovski.rbind.io/post/virusstints/index/</guid>
       <description>The migration of these small birds is fraught with difficulties, and most species will stop along the way to refuel.</description>
     </item>
     

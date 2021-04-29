@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R on Simeon Lisovski</title>
-    <link>/tags/r/</link>
+    <link>https://slisovski.rbind.io/tags/r/</link>
     <description>Recent content in R on Simeon Lisovski</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 11 Apr 2021 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/r/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://slisovski.rbind.io/tags/r/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Animal tracks on the globe with R</title>
-      <link>/tutorials/simmove/</link>
+      <link>https://slisovski.rbind.io/tutorials/simmove/</link>
       <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>/tutorials/simmove/</guid>
+      <guid>https://slisovski.rbind.io/tutorials/simmove/</guid>
       <description>Tutorial (all detailes will follow shortly) I recently submitted a simulation of migrating Bar-tailed godwits (Limosa lapponica) to a vizualisation competition initiated by the BES Movement Ecology SIG.</description>
     </item>
     
     <item>
       <title>Light‐Level Geolocator Analyses: A user&#39;s guide</title>
-      <link>/post/geolocationuserguide/index/</link>
+      <link>https://slisovski.rbind.io/post/geolocationuserguide/index/</link>
       <pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/geolocationuserguide/index/</guid>
+      <guid>https://slisovski.rbind.io/post/geolocationuserguide/index/</guid>
       <description>Established in 1987, the ARGOS system allowed the world-wide tracking of animals equipped with satellite transmitters.</description>
     </item>
     
     <item>
       <title>Mitigating conflicts between agriculture and migratory geese: is shooting a viable option or just passing on the problem?</title>
-      <link>/post/huntingmodel/index/</link>
+      <link>https://slisovski.rbind.io/post/huntingmodel/index/</link>
       <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/huntingmodel/index/</guid>
+      <guid>https://slisovski.rbind.io/post/huntingmodel/index/</guid>
       <description>Following the recent article, Shooting may aggravate rather than alleviate conflicts between migratory geese and agriculture, Silke Bauer explains why management plans for migratory goose populations need to be considered across a broader scale.</description>
     </item>
     
