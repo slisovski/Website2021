@@ -2,75 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Simeon Lisovski</title>
-    <link>https://slisovski.rbind.io/</link>
+    <link>/</link>
     <description>Recent content on Simeon Lisovski</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 11 Apr 2021 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://slisovski.rbind.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About me</title>
-      <link>https://slisovski.rbind.io/about/</link>
+      <link>/about/</link>
       <pubDate>Wed, 28 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://slisovski.rbind.io/about/</guid>
+      <guid>/about/</guid>
       <description>I am a postdoctoral researcher at the Alfred Wegener Institute Helmholtz Centre for Polar and Marine Research in Potsdam, and a member of the Geo.</description>
     </item>
     
     <item>
       <title>Animal tracks on the globe with R</title>
-      <link>https://slisovski.rbind.io/tutorials/simmove/</link>
+      <link>/tutorials/simmove/</link>
       <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://slisovski.rbind.io/tutorials/simmove/</guid>
+      <guid>/tutorials/simmove/</guid>
       <description>Tutorial (all detailes will follow shortly) I recently submitted a simulation of migrating Bar-tailed godwits (Limosa lapponica) to a vizualisation competition initiated by the BES Movement Ecology SIG.</description>
     </item>
     
     <item>
       <title>Light‐Level Geolocator Analyses: A user&#39;s guide</title>
-      <link>https://slisovski.rbind.io/post/geolocationuserguide/index/</link>
+      <link>/post/geolocationuserguide/index/</link>
       <pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://slisovski.rbind.io/post/geolocationuserguide/index/</guid>
+      <guid>/post/geolocationuserguide/index/</guid>
       <description>Established in 1987, the ARGOS system allowed the world-wide tracking of animals equipped with satellite transmitters.</description>
     </item>
     
     <item>
       <title>How our ‘Avian Athlets’ could spread influenza</title>
-      <link>https://slisovski.rbind.io/post/virusstints/index/</link>
+      <link>/post/virusstints/index/</link>
       <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://slisovski.rbind.io/post/virusstints/index/</guid>
+      <guid>/post/virusstints/index/</guid>
       <description>The migration of these small birds is fraught with difficulties, and most species will stop along the way to refuel.</description>
     </item>
     
     <item>
-      <title>Contact</title>
-      <link>https://slisovski.rbind.io/contact/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://slisovski.rbind.io/contact/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Mitigating conflicts between agriculture and migratory geese: is shooting a viable option or just passing on the problem?</title>
-      <link>https://slisovski.rbind.io/post/huntingmodel/index/</link>
+      <link>/post/huntingmodel/index/</link>
       <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://slisovski.rbind.io/post/huntingmodel/index/</guid>
+      <guid>/post/huntingmodel/index/</guid>
       <description>Following the recent article, Shooting may aggravate rather than alleviate conflicts between migratory geese and agriculture, Silke Bauer explains why management plans for migratory goose populations need to be considered across a broader scale.</description>
     </item>
     
     <item>
       <title>List of publications</title>
-      <link>https://slisovski.rbind.io/publications/</link>
+      <link>/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://slisovski.rbind.io/publications/</guid>
+      <guid>/publications/</guid>
       <description>Hoye B. J., Donato C. M., Lisovski S., Deng Y.</description>
     </item>
     
