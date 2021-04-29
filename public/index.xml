@@ -12,12 +12,12 @@
     
     
     <item>
-      <title></title>
+      <title>About me</title>
       <link>/about/</link>
       <pubDate>Wed, 28 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>TBD</description>
+      <description>I am a postdoctoral researcher at the Alfred Wegener Institute Helmholtz Centre for Polar and Marine Research in Potsdam, and a member of the Geo.</description>
     </item>
     
     <item>
@@ -71,7 +71,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/publications/</guid>
-      <description>Bauer, Silke, Simeon Lisovski, Ramona J. F. M. Eikelenboom-Kil, Mitra Shariati, and Bart A.</description>
+      <description>Hoye B. J., Donato C. M., Lisovski S., Deng Y.</description>
     </item>
     
   </channel>
