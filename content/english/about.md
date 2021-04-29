@@ -39,5 +39,3 @@ Telegrafenberg
   
 Phone: +49 (0)331 288-2152  
 [email](mailto:simeon.lisovski@awi.de)
-
-
