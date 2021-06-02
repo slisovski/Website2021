@@ -5,7 +5,7 @@ tags:
 - geolocation
 - migration
 - R
-thumbnail: images/UserGuide.jpg
+thumbnail: post/GeolocationUserGuide/feature.png
 title: "Light‐Level Geolocator Analyses: A user's guide"
 ---
 
@@ -23,6 +23,8 @@ In our 'HOW TO...' paper that is part of the special issue on biologging in Jour
 ![_Figure 2: Coding jam at the 1st international workshop on how to best analyse light level geolocator data to ensure sound and reproducible results (left). Michael Sumner guide to geolocation by light (right): Photo credit: Felix Liechti._](/post/GeolocationUserGuide/Fig2.png)
 
 And even though satellite tags are becoming smaller and smaller too, allowing to track small birds with high accuracy, we consider our efforts to be of value to the research community for the years to come. In addition to the relatively low costs, several recent technological advancements will perhaps even increase the appeal of light level geolocators. The most important among them is probably the combination of light recording with other en-route data, such as air pressure, acceleration, magnetism and temperature. These additional data can facilitate the refinement of location estimates. For instance, acceleration data or changes in air pressure can distinguish movement and residency periods relatively easily, and such prior knowledge can then be fed into the stationary location estimation. These additional sensor data also provide a wealth of complementary information on fine‐scale behaviour: air pressure and temperature can be used to infer flight altitude and initiation and termination of migratory or foraging flights; acceleration data can be used to determine daily activity budgets and, given supplementary measurements, be related to energy expenditure and energy budgets; magnetic field data can be used to infer strategies in orientation and navigation during migration. Combining such behavioural information with refined, reliable and accurate location estimates can assist in identifying habitat associations of migrants or their responses to evolutionarily novel factors such as artificial light at night, sensory pollution or wind farms. This knowledge will improve our understanding of the fates of migrants and the bottlenecks they might experience at sensitive times and places, which will allow us to improve our conservation and management strategies for migratory populations.
+
+>link to the online user guide: https://geolocationmanual.vogelwarte.ch/
 
 **Original publication:** Lisovski, S., Bauer, S., Briedis, M., Davidson, S.C., Dhanjal-Adams, K.L., Hallworth, M.T., Karagicheva, J., Meier, C.M., Merkel, B., Ouwehand, J., Pedersen, L., Rakhimberdiev, E., Roberto-Charron, A., Seavy, N.E., Sumner, M.D., Taylor, C.M., Wotherspoon, S.J. & E.S. Bridge (2019) Light-Level Geolocator Analyses: A user’s guide. Journal of Animal Ecology. [link](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2656.13036)
 
