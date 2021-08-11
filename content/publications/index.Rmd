@@ -1,0 +1,6 @@
+---
+title: ""
+bibliography: mybib.bib
+csl: myStyle.csl
+nocite: '@*'
+---

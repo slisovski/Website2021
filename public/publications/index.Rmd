@@ -1,8 +1,0 @@
----
-title: "List of publications"
-output: html_document
-bibliography: mybib.bib
-csl: myStyle.csl
-nocite: '@*'
----
-

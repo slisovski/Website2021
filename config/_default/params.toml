@@ -1,5 +1,5 @@
 
-title = "SLisovski Website"
+title = "Simeon Lisovski"
 author = "Simeon Lisovski"
 #copyright = "2020-2021"
 description = "I am a quantitative ecologist specialized in the fields of avian migration, theoretical ecology and host-pathogen interactions. My research aims to improve our understanding of the natural world and particularly how animals interact with their rapidely changing biotic and abiotic environments."
@@ -10,11 +10,22 @@ favicon = "favicons/"
 customCss = []
 # example ["js/custom.js"]
 customJs = [] 
-mainSections = ["post"]
+mainSections = ["blogposts"]
+#images = ["images"]
 doNotLoadAnimations = false
+# Form Spree Contact Form
+#contactFormAction = "https://formspree.io/f/your-form-hash-here"
+# Google Site Verify
+#googleSiteVerify = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
 singleDateFormat = "2/1/2006"
 indexDateFormat = "2/1/2006"
 listDateFormat = "2/1/2006"
+# Commento Comments
+# CommentoURL = "https://commento.example.com/js/commento.js"
+# Read More links for truncated summaries
+# readMore = true
+# postSectionName = "blog"
+
 
 [simpleAnalytics]
 # enable = true
@@ -22,8 +33,8 @@ listDateFormat = "2/1/2006"
 
 ## Math settings
 [math]
-enable = false
-use = "katex"
+enable = false  # options: true, false. Enable math support globally, default: false. You can always enable math on per page.
+use = "katex"  # options: "katex", "mathjax". default is "katex".
 
 ## Social links
 # use 'fab' when brand icons, use 'fas' when standard solid icons.
