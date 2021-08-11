@@ -2,7 +2,7 @@
   name = "Posts"
   identifier = "home"
   weight = 100
-  url = "/blogposts/"
+  url = "/"
 
   [[main]]
   name = "Tutorials"

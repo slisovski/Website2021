@@ -10,7 +10,7 @@ favicon = "favicons/"
 customCss = []
 # example ["js/custom.js"]
 customJs = [] 
-mainSections = ["home"]
+mainSections = ["blogposts"]
 #images = ["images"]
 doNotLoadAnimations = false
 # Form Spree Contact Form
