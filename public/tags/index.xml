@@ -41,20 +41,9 @@
     </item>
     
     <item>
-      <title>geolocation</title>
-      <link>https://slisovski.rbind.io/tags/geolocation/</link>
-      <pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://slisovski.rbind.io/tags/geolocation/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
       <title>migration</title>
       <link>https://slisovski.rbind.io/tags/migration/</link>
-      <pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://slisovski.rbind.io/tags/migration/</guid>
       
@@ -65,9 +54,31 @@
     <item>
       <title>R</title>
       <link>https://slisovski.rbind.io/tags/r/</link>
-      <pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://slisovski.rbind.io/tags/r/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>wind</title>
+      <link>https://slisovski.rbind.io/tags/wind/</link>
+      <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://slisovski.rbind.io/tags/wind/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>geolocation</title>
+      <link>https://slisovski.rbind.io/tags/geolocation/</link>
+      <pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://slisovski.rbind.io/tags/geolocation/</guid>
       
         <description></description>
       

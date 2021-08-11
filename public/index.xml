@@ -19,17 +19,6 @@
     </item>
     
     <item>
-      <title>TBA</title>
-      <link>https://slisovski.rbind.io/tutorials/</link>
-      <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://slisovski.rbind.io/tutorials/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
       <title>From Europe to India – A little investigated route of migratory birds</title>
       <link>https://slisovski.rbind.io/blogposts/rosefinch/index/</link>
       <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
@@ -37,6 +26,17 @@
       <guid>https://slisovski.rbind.io/blogposts/rosefinch/index/</guid>
       
         <description>Overcoming multiple setbacks, and teaming up with researchers from across Europe, finally brought insight into the previously mysterious travels of the common rosefinch.</description>
+      
+    </item>
+    
+    <item>
+      <title>Animal tracks on the globe with R</title>
+      <link>https://slisovski.rbind.io/tutorials/simmove/</link>
+      <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://slisovski.rbind.io/tutorials/simmove/</guid>
+      
+        <description>Tutorial (all detailes will follow shortly) I recently submitted a simulation of migrating Bar-tailed godwits (Limosa lapponica) to a vizualisation competition initiated by the BES Movement Ecology SIG.</description>
       
     </item>
     
