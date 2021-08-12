@@ -8,7 +8,7 @@
     <language>en</language>
     <lastBuildDate>Wed, 26 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://slisovski.rbind.io/tags/era5/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>ERA5 Wind Data: Download via R</title>
+      <title>ERA5: Download via R</title>
       <link>https://slisovski.rbind.io/tutorials/era5download/</link>
       <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
       

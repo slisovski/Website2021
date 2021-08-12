@@ -1,5 +1,5 @@
 ---
-title: "ERA5 Wind Data: Download via R"
+title: "ERA5: Download via R"
 author: "Simeon Lisovski"
 date: "2021-05-26"
 tags:
@@ -84,6 +84,6 @@ uRaster <- brick(glue("ERA5_wind_{format(date, '%Y')}_{format(date, '%m')}_{form
 vRaster <- brick(glue("ERA5_wind_{format(date, '%Y')}_{format(date, '%m')}_{format(date, '%d')}.nc"), varname=  "v")[[1]]
 
 speedRaster <- rotate(sqrt((uRaster^2)+(vRaster^2))) ## rotate to have -180 to 180 degrees (otherwhise 0 to 360)
-plot(speedRaster)
-plot(rnaturalearthdata::coastline50, add = T)
+# plot(speedRaster)
+# plot(rnaturalearthdata::coastline50, add = T)
 ```

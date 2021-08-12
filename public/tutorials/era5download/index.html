@@ -7,7 +7,7 @@
   <title>
     Simeon Lisovski
       |
-      ERA5 Wind Data: Download via R
+      ERA5: Download via R
 
 
     
@@ -81,7 +81,7 @@
 
   
   <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="ERA5 Wind Data: Download via R"/>
+<meta name="twitter:title" content="ERA5: Download via R"/>
 <meta name="twitter:description" content="You can downlaod wind (horizontal) u und (vertical) v vectors on a global scale for different pressure levels (altitudes) from the ERA-5 dataset."/>
 
 
@@ -98,8 +98,8 @@
         "@context": "http://schema.org",
         "@type": "BlogPosting",
         "articleSection": "tutorials",
-        "name": "ERA5 Wind Data: Download via R",
-        "headline": "ERA5 Wind Data: Download via R",
+        "name": "ERA5: Download via R",
+        "headline": "ERA5: Download via R",
         "alternativeHeadline": "",
         "description": "
       
@@ -153,7 +153,7 @@
 
     ,
         "url" : "https:\/\/slisovski.rbind.io\/tutorials\/era5download\/",
-        "wordCount" : "218",
+        "wordCount" : "220",
         "genre" : [ ],
         "keywords" : [ 
       
@@ -345,7 +345,7 @@
     <div class="post-content">
       
       <div class="post-title">
-        <h1>ERA5 Wind Data: Download via R</h1>
+        <h1>ERA5: Download via R</h1>
         
       </div>
 <script src="https://slisovski.rbind.io/tutorials/era5download/index_files/header-attrs/header-attrs.js"></script>
@@ -401,9 +401,8 @@ uRaster &lt;- brick(glue(&quot;ERA5_wind_{format(date, &#39;%Y&#39;)}_{format(da
 vRaster &lt;- brick(glue(&quot;ERA5_wind_{format(date, &#39;%Y&#39;)}_{format(date, &#39;%m&#39;)}_{format(date, &#39;%d&#39;)}.nc&quot;), varname=  &quot;v&quot;)[[1]]
 
 speedRaster &lt;- rotate(sqrt((uRaster^2)+(vRaster^2))) ## rotate to have -180 to 180 degrees (otherwhise 0 to 360)
-plot(speedRaster)
-plot(rnaturalearthdata::coastline50, add = T)</code></pre>
-<p><img src="https://slisovski.rbind.io/tutorials/era5download/index_files/figure-html/unnamed-chunk-4-1.png" width="672" /></p>
+# plot(speedRaster)
+# plot(rnaturalearthdata::coastline50, add = T)</code></pre>
 </div>
 </div>
     <div class="post-footer">
