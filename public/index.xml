@@ -30,6 +30,17 @@
     </item>
     
     <item>
+      <title>ERA5 Wind Data: Download via R</title>
+      <link>https://slisovski.rbind.io/tutorials/era5download/</link>
+      <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://slisovski.rbind.io/tutorials/era5download/</guid>
+      
+        <description>You can downlaod wind (horizontal) u und (vertical) v vectors on a global scale for different pressure levels (altitudes) from the ERA-5 dataset.</description>
+      
+    </item>
+    
+    <item>
       <title>Animal tracks on the globe with R</title>
       <link>https://slisovski.rbind.io/tutorials/simmove/</link>
       <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
