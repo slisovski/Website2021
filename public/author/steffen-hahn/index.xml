@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Steffen Hahn | Simeon Lisovski Research</title>
+    <link>https://slisovski.rbind.io/author/steffen-hahn/</link>
+      <atom:link href="https://slisovski.rbind.io/author/steffen-hahn/index.xml" rel="self" type="application/rss+xml" />
+    <description>Steffen Hahn</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://slisovski.rbind.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Steffen Hahn</title>
+      <link>https://slisovski.rbind.io/author/steffen-hahn/</link>
+    </image>
+    
+    <item>
+      <title>Broad‐scale patterns of the Afro‐Palaearctic landbird migration</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/briedis_et_al-2020-globalecolbiog/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/briedis_et_al-2020-globalecolbiog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weak effects of geolocators on small birds: A meta‐analysis controlled for phylogeny and publication bias</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/brlik_et_al_2019-janimecol/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/brlik_et_al_2019-janimecol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying migration routes and non-breeding staging sites of adult males of the globally threatened Aquatic Warbler _Acrocephalus paludicola_</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/salewski_et_al-2018-birdconsint/</link>
+      <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/salewski_et_al-2018-birdconsint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatiotemporal Group Dynamics in a Long-Distance Migratory Bird</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/dhanjal-adams_et_al_2018-currbiol/</link>
+      <pubDate>Thu, 23 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/dhanjal-adams_et_al_2018-currbiol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inherent limits of light-level geolocation may lead to over-interpretation</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/lisovski_et_al-2018-currbiol/</link>
+      <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/lisovski_et_al-2018-currbiol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First tracks of individual Blackcaps suggest a complex migration pattern</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/hiemer_et_al_2018-jorn/</link>
+      <pubDate>Mon, 04 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/hiemer_et_al_2018-jorn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consistent variation in individual migration strategies of brown skuas</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/krietsch_et_al_2017-meps/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/krietsch_et_al_2017-meps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Timing is crucial for consequences of migratory connectivity</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/bauer_et_al-2016-oikos/</link>
+      <pubDate>Wed, 07 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/bauer_et_al-2016-oikos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variable detours in long-distance migration across ecological barriers and their relation to habitat availability at ground</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/hahn_et_al_2014-ecolevol/</link>
+      <pubDate>Tue, 14 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/hahn_et_al_2014-ecolevol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First insights into the migration route and migratory connectivity of the Paddyfield Warbler using geolocator tagging and stable isotope analysis</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/salewski_et_al-2013-jorn/</link>
+      <pubDate>Sat, 01 Dec 2012 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/salewski_et_al-2013-jorn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GeoLight – processing and analysing light‐based geolocator data in R</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/lisovski_hahn-2012-methecolevol/</link>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/lisovski_hahn-2012-methecolevol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geolocation by light: accuracy and precision affected by environmental factors</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/lisovski_et_al-2012-methecolevol/</link>
+      <pubDate>Tue, 07 Feb 2012 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/lisovski_et_al-2012-methecolevol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>South polar skuas from a single breeding population overwinter in different oceans though show similar migration patterns</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/kopp_et_al-2011-meps/</link>
+      <pubDate>Mon, 22 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/kopp_et_al-2011-meps/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

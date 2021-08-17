@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuichi Yamaura | Simeon Lisovski Research</title>
+    <link>https://slisovski.rbind.io/author/yuichi-yamaura/</link>
+      <atom:link href="https://slisovski.rbind.io/author/yuichi-yamaura/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuichi Yamaura</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jun 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://slisovski.rbind.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Yuichi Yamaura</title>
+      <link>https://slisovski.rbind.io/author/yuichi-yamaura/</link>
+    </image>
+    
+    <item>
+      <title>Tracking the Stejneger&#39;s stonechat Saxicola stejnegeri along the East Asian–Australian Flyway from Japan via China to southeast Asia</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/yamaura_et_al-2015-avianbiol/</link>
+      <pubDate>Wed, 15 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/yamaura_et_al-2015-avianbiol/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tamara Emmenegger | Simeon Lisovski Research</title>
+    <link>https://slisovski.rbind.io/author/tamara-emmenegger/</link>
+      <atom:link href="https://slisovski.rbind.io/author/tamara-emmenegger/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tamara Emmenegger</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://slisovski.rbind.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Tamara Emmenegger</title>
+      <link>https://slisovski.rbind.io/author/tamara-emmenegger/</link>
+    </image>
+    
+    <item>
+      <title>Broad‐scale patterns of the Afro‐Palaearctic landbird migration</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/briedis_et_al-2020-globalecolbiog/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/briedis_et_al-2020-globalecolbiog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weak effects of geolocators on small birds: A meta‐analysis controlled for phylogeny and publication bias</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/brlik_et_al_2019-janimecol/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/brlik_et_al_2019-janimecol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatiotemporal Group Dynamics in a Long-Distance Migratory Bird</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/dhanjal-adams_et_al_2018-currbiol/</link>
+      <pubDate>Thu, 23 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/dhanjal-adams_et_al_2018-currbiol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variable detours in long-distance migration across ecological barriers and their relation to habitat availability at ground</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/hahn_et_al_2014-ecolevol/</link>
+      <pubDate>Tue, 14 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/hahn_et_al_2014-ecolevol/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marilyn Ramenofsky | Simeon Lisovski Research</title>
+    <link>https://slisovski.rbind.io/author/marilyn-ramenofsky/</link>
+      <atom:link href="https://slisovski.rbind.io/author/marilyn-ramenofsky/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marilyn Ramenofsky</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://slisovski.rbind.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Marilyn Ramenofsky</title>
+      <link>https://slisovski.rbind.io/author/marilyn-ramenofsky/</link>
+    </image>
+    
+    <item>
+      <title>Migration pattern of Gambel’s White‑crowned Sparrow along the Pacifc Flyway</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/lisovski_et_al_2019-jorn/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/lisovski_et_al_2019-jorn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Defining the Degree of Seasonality and its Significance for Future Research</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/lisovski_et_al-2017-icb/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/lisovski_et_al-2017-icb/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

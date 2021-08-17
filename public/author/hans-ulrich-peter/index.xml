@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hans-Ulrich Peter | Simeon Lisovski Research</title>
+    <link>https://slisovski.rbind.io/author/hans-ulrich-peter/</link>
+      <atom:link href="https://slisovski.rbind.io/author/hans-ulrich-peter/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hans-Ulrich Peter</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://slisovski.rbind.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Hans-Ulrich Peter</title>
+      <link>https://slisovski.rbind.io/author/hans-ulrich-peter/</link>
+    </image>
+    
+    <item>
+      <title>Consistent variation in individual migration strategies of brown skuas</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/krietsch_et_al_2017-meps/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/krietsch_et_al_2017-meps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sex-Specific Arrival Times on the Breeding Grounds: Hybridizing Migratory Skuas Provide Empirical Support for the Role of Sex Ratios</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/lisovski_et_al-2016-amnat/</link>
+      <pubDate>Mon, 22 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/lisovski_et_al-2016-amnat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Long-term dataset reveals declines in breeding success and high fluctuations in the number of breeding pairs in two skua species breeding on King George Island</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/krietsch_et_al-2016-polbiol/</link>
+      <pubDate>Thu, 15 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/krietsch_et_al-2016-polbiol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>South polar skuas from a single breeding population overwinter in different oceans though show similar migration patterns</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/kopp_et_al-2011-meps/</link>
+      <pubDate>Mon, 22 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/kopp_et_al-2011-meps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First breeding record of the light-mantled sooty albatross (Phoebetria palpebrata) for the maritime Antarctic</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/lisovski_et_al-2009-polbiol/</link>
+      <pubDate>Fri, 07 Aug 2009 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/lisovski_et_al-2009-polbiol/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

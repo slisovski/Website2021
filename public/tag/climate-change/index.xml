@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Climate change | Simeon Lisovski Research</title>
+    <link>https://slisovski.rbind.io/tag/climate-change/</link>
+      <atom:link href="https://slisovski.rbind.io/tag/climate-change/index.xml" rel="self" type="application/rss+xml" />
+    <description>Climate change</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://slisovski.rbind.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Climate change</title>
+      <link>https://slisovski.rbind.io/tag/climate-change/</link>
+    </image>
+    
+    <item>
+      <title>Reassortment and Persistence of Influenza A Viruses from Diverse Geographic Origins within Australian Wild Birds: Evidence from a Small, Isolated Population of Ruddy Turnstones</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/hoye-2021-jvirology/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/hoye-2021-jvirology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A bird’s migration decoded</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/lisovskiliedvogel-2021-nature/</link>
+      <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/lisovskiliedvogel-2021-nature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shorebirds wintering in Southeast Asia demonstrate trans-Himalayan flights</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/li-2020-scirep/</link>
+      <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/li-2020-scirep/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

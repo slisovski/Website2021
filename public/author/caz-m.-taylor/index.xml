@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Caz M. Taylor | Simeon Lisovski Research</title>
+    <link>https://slisovski.rbind.io/author/caz-m.-taylor/</link>
+      <atom:link href="https://slisovski.rbind.io/author/caz-m.-taylor/index.xml" rel="self" type="application/rss+xml" />
+    <description>Caz M. Taylor</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://slisovski.rbind.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Caz M. Taylor</title>
+      <link>https://slisovski.rbind.io/author/caz-m.-taylor/</link>
+    </image>
+    
+    <item>
+      <title>Light‐level geolocator analyses: A user&#39;s guide</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/lisovski_et_al_2019-janimecol/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/lisovski_et_al_2019-janimecol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inherent limits of light-level geolocation may lead to over-interpretation</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/lisovski_et_al-2018-currbiol/</link>
+      <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/lisovski_et_al-2018-currbiol/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

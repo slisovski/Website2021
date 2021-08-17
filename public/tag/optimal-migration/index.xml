@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Optimal migration | Simeon Lisovski Resaerch</title>
+    <title>Optimal migration | Simeon Lisovski Research</title>
     <link>https://slisovski.rbind.io/tag/optimal-migration/</link>
       <atom:link href="https://slisovski.rbind.io/tag/optimal-migration/index.xml" rel="self" type="application/rss+xml" />
     <description>Optimal migration</description>
@@ -49,6 +49,14 @@
 &lt;p&gt;Inspired, by previous large-scale research on the effects of wind on bird migration (Kranstauber et al. 2015 Ecology Letters) we constructed simple theoretical migration models that optimized the routes with respect to wind and resource availability during migration. These theoretical tracks revealed interesting patterns with seasonally specific bottlenecks such as the areas south of the Caspian Sea during spring migration. The comparison between the theoretical tracks and the collected empirical tracks also showed that rosefinches seem to make use of the straighter winds from India to Europe during spring, probably allowing for fast and direct migration to the breeding sites, while engaging in larger detours during autumn following the routes that provide highest security in terms of resources.&lt;/p&gt;
 &lt;p&gt;To me, this study shows how valuable even small and local studies can be, if seen as puzzle pieces helping to reveal the larger picture. Obviously, this needs an open and collaborative network of researchers which I am very glad to have encountered during this project. I would like to thank all of my co-authors for sharing not only their data but for providing their insights into the study systems, for fruitful discussion, for pushing me hard to explain the modeling approach and forcing me to meet empirical fieldwork and theory halfway!&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>The Indo-European flyway: Opportunities and constraints reflected by Common Rosefinches breeding across Europe</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/lisovski_et_al-2021-jbiogeogr/</link>
+      <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/lisovski_et_al-2021-jbiogeogr/</guid>
+      <description></description>
     </item>
     
     <item>

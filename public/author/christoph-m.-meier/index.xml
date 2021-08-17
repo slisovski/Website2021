@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christoph M. Meier | Simeon Lisovski Research</title>
+    <link>https://slisovski.rbind.io/author/christoph-m.-meier/</link>
+      <atom:link href="https://slisovski.rbind.io/author/christoph-m.-meier/index.xml" rel="self" type="application/rss+xml" />
+    <description>Christoph M. Meier</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://slisovski.rbind.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Christoph M. Meier</title>
+      <link>https://slisovski.rbind.io/author/christoph-m.-meier/</link>
+    </image>
+    
+    <item>
+      <title>Light‐level geolocator analyses: A user&#39;s guide</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/lisovski_et_al_2019-janimecol/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/lisovski_et_al_2019-janimecol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weak effects of geolocators on small birds: A meta‐analysis controlled for phylogeny and publication bias</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/brlik_et_al_2019-janimecol/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/brlik_et_al_2019-janimecol/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

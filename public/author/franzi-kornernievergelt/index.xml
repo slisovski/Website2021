@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fränzi Korner‐Nievergelt | Simeon Lisovski Research</title>
+    <link>https://slisovski.rbind.io/author/franzi-kornernievergelt/</link>
+      <atom:link href="https://slisovski.rbind.io/author/franzi-kornernievergelt/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fränzi Korner‐Nievergelt</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 07 Feb 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://slisovski.rbind.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Fränzi Korner‐Nievergelt</title>
+      <link>https://slisovski.rbind.io/author/franzi-kornernievergelt/</link>
+    </image>
+    
+    <item>
+      <title>Geolocation by light: accuracy and precision affected by environmental factors</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/lisovski_et_al-2012-methecolevol/</link>
+      <pubDate>Tue, 07 Feb 2012 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/lisovski_et_al-2012-methecolevol/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

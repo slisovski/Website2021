@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Richard A. Phillips | Simeon Lisovski Research</title>
+    <link>https://slisovski.rbind.io/author/richard-a.-phillips/</link>
+      <atom:link href="https://slisovski.rbind.io/author/richard-a.-phillips/index.xml" rel="self" type="application/rss+xml" />
+    <description>Richard A. Phillips</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://slisovski.rbind.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Richard A. Phillips</title>
+      <link>https://slisovski.rbind.io/author/richard-a.-phillips/</link>
+    </image>
+    
+    <item>
+      <title>Consistent variation in individual migration strategies of brown skuas</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/krietsch_et_al_2017-meps/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/krietsch_et_al_2017-meps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>South polar skuas from a single breeding population overwinter in different oceans though show similar migration patterns</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/kopp_et_al-2011-meps/</link>
+      <pubDate>Mon, 22 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/kopp_et_al-2011-meps/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

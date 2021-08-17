@@ -1,16 +1,56 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Silke Bauer | Simeon Lisovski Resaerch</title>
+    <title>Silke Bauer | Simeon Lisovski Research</title>
     <link>https://slisovski.rbind.io/author/silke-bauer/</link>
       <atom:link href="https://slisovski.rbind.io/author/silke-bauer/index.xml" rel="self" type="application/rss+xml" />
     <description>Silke Bauer</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 31 May 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 03 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://slisovski.rbind.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Silke Bauer</title>
       <link>https://slisovski.rbind.io/author/silke-bauer/</link>
     </image>
+    
+    <item>
+      <title>The Indo-European flyway: Opportunities and constraints reflected by Common Rosefinches breeding across Europe</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/lisovski_et_al-2021-jbiogeogr/</link>
+      <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/lisovski_et_al-2021-jbiogeogr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Broad‐scale patterns of the Afro‐Palaearctic landbird migration</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/briedis_et_al-2020-globalecolbiog/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/briedis_et_al-2020-globalecolbiog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Light‐level geolocator analyses: A user&#39;s guide</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/lisovski_et_al_2019-janimecol/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/lisovski_et_al_2019-janimecol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shooting may aggravate rather than alleviate conflicts between migratory geese and agriculture</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/bauer_et_al_2018-japplecol/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/bauer_et_al_2018-japplecol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatiotemporal Group Dynamics in a Long-Distance Migratory Bird</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/dhanjal-adams_et_al_2018-currbiol/</link>
+      <pubDate>Thu, 23 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/dhanjal-adams_et_al_2018-currbiol/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Mitigating conflicts between agriculture and migratory geese: is shooting a viable option or just passing on the problem?</title>
@@ -72,6 +112,22 @@
 &lt;p&gt;&lt;a href=&#34;https://appliedecologistsblog.com/2019/08/27/senior-editor-vacancy-apply-now/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt; to original blogpost.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://slisovski.rbind.io/publication/bauer_et_al_2018-japplecol/&#34;&gt;Link&lt;/a&gt; to article download.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Inherent limits of light-level geolocation may lead to over-interpretation</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/lisovski_et_al-2018-currbiol/</link>
+      <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/lisovski_et_al-2018-currbiol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Timing is crucial for consequences of migratory connectivity</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/bauer_et_al-2016-oikos/</link>
+      <pubDate>Wed, 07 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/bauer_et_al-2016-oikos/</guid>
+      <description></description>
     </item>
     
   </channel>

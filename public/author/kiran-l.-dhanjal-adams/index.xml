@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kiran L. Dhanjal-Adams | Simeon Lisovski Research</title>
+    <link>https://slisovski.rbind.io/author/kiran-l.-dhanjal-adams/</link>
+      <atom:link href="https://slisovski.rbind.io/author/kiran-l.-dhanjal-adams/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kiran L. Dhanjal-Adams</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 23 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://slisovski.rbind.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Kiran L. Dhanjal-Adams</title>
+      <link>https://slisovski.rbind.io/author/kiran-l.-dhanjal-adams/</link>
+    </image>
+    
+    <item>
+      <title>Spatiotemporal Group Dynamics in a Long-Distance Migratory Bird</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/dhanjal-adams_et_al_2018-currbiol/</link>
+      <pubDate>Thu, 23 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/dhanjal-adams_et_al_2018-currbiol/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jan A van Gils | Simeon Lisovski Research</title>
+    <link>https://slisovski.rbind.io/author/jan-a-van-gils/</link>
+      <atom:link href="https://slisovski.rbind.io/author/jan-a-van-gils/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jan A van Gils</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 13 May 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://slisovski.rbind.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Jan A van Gils</title>
+      <link>https://slisovski.rbind.io/author/jan-a-van-gils/</link>
+    </image>
+    
+    <item>
+      <title>Body shrinkage due to Arctic warming reduces red knot fitness in tropical wintering range</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/vangils_et_al-2016-science/</link>
+      <pubDate>Fri, 13 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/vangils_et_al-2016-science/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mitra Shariati | Simeon Lisovski Research</title>
+    <link>https://slisovski.rbind.io/author/mitra-shariati/</link>
+      <atom:link href="https://slisovski.rbind.io/author/mitra-shariati/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mitra Shariati</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://slisovski.rbind.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Mitra Shariati</title>
+      <link>https://slisovski.rbind.io/author/mitra-shariati/</link>
+    </image>
+    
+    <item>
+      <title>Shooting may aggravate rather than alleviate conflicts between migratory geese and agriculture</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/bauer_et_al_2018-japplecol/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/bauer_et_al_2018-japplecol/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

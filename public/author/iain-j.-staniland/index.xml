@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Iain J. Staniland | Simeon Lisovski Research</title>
+    <link>https://slisovski.rbind.io/author/iain-j.-staniland/</link>
+      <atom:link href="https://slisovski.rbind.io/author/iain-j.-staniland/index.xml" rel="self" type="application/rss+xml" />
+    <description>Iain J. Staniland</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 26 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://slisovski.rbind.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Iain J. Staniland</title>
+      <link>https://slisovski.rbind.io/author/iain-j.-staniland/</link>
+    </image>
+    
+    <item>
+      <title>Sexual segregation in juvenile Antarctic fur seals</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/jones_et_al-2020-oecologia/</link>
+      <pubDate>Mon, 26 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/jones_et_al-2020-oecologia/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

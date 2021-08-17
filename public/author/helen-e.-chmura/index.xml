@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Helen E. Chmura | Simeon Lisovski Research</title>
+    <link>https://slisovski.rbind.io/author/helen-e.-chmura/</link>
+      <atom:link href="https://slisovski.rbind.io/author/helen-e.-chmura/index.xml" rel="self" type="application/rss+xml" />
+    <description>Helen E. Chmura</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 08 May 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://slisovski.rbind.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Helen E. Chmura</title>
+      <link>https://slisovski.rbind.io/author/helen-e.-chmura/</link>
+    </image>
+    
+    <item>
+      <title>How birds cope physiologically and behaviourally with extreme climatic events</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/wingfield_et_al-2017_philtrans/</link>
+      <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/wingfield_et_al-2017_philtrans/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

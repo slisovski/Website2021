@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Simeon Lisovski Resaerch</title>
+    <title>Simeon Lisovski Research</title>
     <link>https://slisovski.rbind.io/</link>
       <atom:link href="https://slisovski.rbind.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Simeon Lisovski Resaerch</description>
+    <description>Simeon Lisovski Research</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://slisovski.rbind.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
-      <title>Simeon Lisovski Resaerch</title>
+      <title>Simeon Lisovski Research</title>
       <link>https://slisovski.rbind.io/</link>
     </image>
     
@@ -144,6 +144,14 @@ The variance of the distribution is $\sigma^{2}$.
     </item>
     
     <item>
+      <title>Sexual segregation in juvenile Antarctic fur seals</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/jones_et_al-2020-oecologia/</link>
+      <pubDate>Mon, 26 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/jones_et_al-2020-oecologia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>From Europe to India – A little investigated route of migratory birds</title>
       <link>https://slisovski.rbind.io/post/rosefinch/</link>
       <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
@@ -248,6 +256,14 @@ speedRaster &amp;lt;- rotate(sqrt((uRaster^2)+(vRaster^2))) ## rotate to have -1
     </item>
     
     <item>
+      <title>Reassortment and Persistence of Influenza A Viruses from Diverse Geographic Origins within Australian Wild Birds: Evidence from a Small, Isolated Population of Ruddy Turnstones</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/hoye-2021-jvirology/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/hoye-2021-jvirology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Animal tracks on a globe with R</title>
       <link>https://slisovski.rbind.io/project/simmove/</link>
       <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
@@ -271,6 +287,54 @@ speedRaster &amp;lt;- rotate(sqrt((uRaster^2)+(vRaster^2))) ## rotate to have -1
 &lt;h2&gt;Animal tracks&lt;/h2&gt;
 &lt;/div&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>A bird’s migration decoded</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/lisovskiliedvogel-2021-nature/</link>
+      <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/lisovskiliedvogel-2021-nature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Indo-European flyway: Opportunities and constraints reflected by Common Rosefinches breeding across Europe</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/lisovski_et_al-2021-jbiogeogr/</link>
+      <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/lisovski_et_al-2021-jbiogeogr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shorebirds wintering in Southeast Asia demonstrate trans-Himalayan flights</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/li-2020-scirep/</link>
+      <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/li-2020-scirep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Migration strategy as an indicator of resilience to change in two shorebird species with contrasting population trajectories</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/lisovski_et_al-2020-jae/</link>
+      <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/lisovski_et_al-2020-jae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Broad‐scale patterns of the Afro‐Palaearctic landbird migration</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/briedis_et_al-2020-globalecolbiog/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/briedis_et_al-2020-globalecolbiog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The adequacy of aging techniques in vertebrates for rapid estimation of population mortality rates from age distributions</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/zhao_et_al-2019-ecolevol/</link>
+      <pubDate>Fri, 27 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/zhao_et_al-2019-ecolevol/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -339,6 +403,14 @@ In our &amp;lsquo;HOW TO&amp;hellip;&amp;rsquo; paper that is part of the specia
     </item>
     
     <item>
+      <title>Serologic Evidence of Exposure to Highly Pathogenic Avian Infuenza H5 Viruses in Migratory Shorebirds, Australia</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/wille_et_al_2019-emerginfdis/</link>
+      <pubDate>Tue, 08 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/wille_et_al_2019-emerginfdis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>How our ‘Avian Athlets’ could spread influenza</title>
       <link>https://slisovski.rbind.io/post/virusstints/</link>
       <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
@@ -393,6 +465,38 @@ In our &amp;lsquo;HOW TO&amp;hellip;&amp;rsquo; paper that is part of the specia
 &lt;p&gt;This study was completed in collaboration with Deakin University, the CSIRO Australian Animal Health Laboratory, and the Australian Commonwealth Government Department of Agriculture.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://pursuit.unimelb.edu.au/articles/how-our-avian-athletes-could-spread-influenza&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt; to original blogpost.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Light‐level geolocator analyses: A user&#39;s guide</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/lisovski_et_al_2019-janimecol/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/lisovski_et_al_2019-janimecol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Migration pattern of Gambel’s White‑crowned Sparrow along the Pacifc Flyway</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/lisovski_et_al_2019-jorn/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/lisovski_et_al_2019-jorn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weak effects of geolocators on small birds: A meta‐analysis controlled for phylogeny and publication bias</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/brlik_et_al_2019-janimecol/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/brlik_et_al_2019-janimecol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preliminary survival and movement data for a declining population of Flesh-footed Shearwater Ardenna carneipes in Western Australia provides insights into marine threats</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/lavers_et-at-2019-birdconsint/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/lavers_et-at-2019-birdconsint/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -525,6 +629,54 @@ Three
     </item>
     
     <item>
+      <title>The adequacy of aging techniques in vertebrates for rapid estimation of population mortality rates from age distributions</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/zhao_et_al-2018-ecolevol/</link>
+      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/zhao_et_al-2018-ecolevol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying migration routes and non-breeding staging sites of adult males of the globally threatened Aquatic Warbler _Acrocephalus paludicola_</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/salewski_et_al-2018-birdconsint/</link>
+      <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/salewski_et_al-2018-birdconsint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shooting may aggravate rather than alleviate conflicts between migratory geese and agriculture</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/bauer_et_al_2018-japplecol/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/bauer_et_al_2018-japplecol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Light-level geolocation in polar regions with 24-hour daylight</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/lisovski-2018_waderstudy/</link>
+      <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/lisovski-2018_waderstudy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geolocators track Ruddy Turnstone to Newcastle, NSW en route to King Island (Tasmania)</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/gosbell_et_al_2018-whistler/</link>
+      <pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/gosbell_et_al_2018-whistler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatiotemporal Group Dynamics in a Long-Distance Migratory Bird</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/dhanjal-adams_et_al_2018-currbiol/</link>
+      <pubDate>Thu, 23 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/dhanjal-adams_et_al_2018-currbiol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Mitigating conflicts between agriculture and migratory geese: is shooting a viable option or just passing on the problem?</title>
       <link>https://slisovski.rbind.io/post/huntingmodel/</link>
       <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
@@ -584,6 +736,246 @@ Three
 &lt;p&gt;&lt;a href=&#34;https://appliedecologistsblog.com/2019/08/27/senior-editor-vacancy-apply-now/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt; to original blogpost.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://slisovski.rbind.io/publication/bauer_et_al_2018-japplecol/&#34;&gt;Link&lt;/a&gt; to article download.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>First insights into the migration route and migratory connectivity of the Paddyfield Warbler using geolocator tagging and stable isotope analysis</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/brlik_et_al_2018-jorn/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/brlik_et_al_2018-jorn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Migratory routes and wintering locations of declining inland North American Common Terns</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/braceylisovski_et_al_2018-auk/</link>
+      <pubDate>Wed, 04 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/braceylisovski_et_al_2018-auk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The roles of migratory and resident birds in local avian influenza infection dynamics</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/lisovski_et_al-2018-japplecol/</link>
+      <pubDate>Fri, 16 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/lisovski_et_al-2018-japplecol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MHC diversity and female age underpin reproductive success in an Australian icon; the Tasmanian Devil</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/russell_et_al-2018_scientifcreports/</link>
+      <pubDate>Thu, 08 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/russell_et_al-2018_scientifcreports/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inherent limits of light-level geolocation may lead to over-interpretation</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/lisovski_et_al-2018-currbiol/</link>
+      <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/lisovski_et_al-2018-currbiol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Body size shapes inter‐specific migratory behaviour: evidence from individual tracks of long‐distance migratory shorebirds</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/zhao_et_al-2018-javianbiol/</link>
+      <pubDate>Tue, 14 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/zhao_et_al-2018-javianbiol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time versus energy minimization migration strategy varies with body size and season in long-distance migratory shorebirds</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/zhao_et_al-2017-movecol/</link>
+      <pubDate>Tue, 07 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/zhao_et_al-2017-movecol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Defining the Degree of Seasonality and its Significance for Future Research</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/lisovski_et_al-2017-icb/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/lisovski_et_al-2017-icb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Purifying selection and concerted evolution of RNA-sensing toll-like receptors in migratory waders</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/raven_et_al-2016-ige/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/raven_et_al-2016-ige/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding Evolutionary Impacts of Seasonality: An Introduction to the Symposium</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/williams_et_al_2017-icb/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/williams_et_al_2017-icb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First tracks of individual Blackcaps suggest a complex migration pattern</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/hiemer_et_al_2018-jorn/</link>
+      <pubDate>Mon, 04 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/hiemer_et_al_2018-jorn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zippammer Emberiza cia bei Jena - Zusammenfassung der bisherigen Nachweise</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/klaus_et_al_2017-thuranz/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/klaus_et_al_2017-thuranz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How birds cope physiologically and behaviourally with extreme climatic events</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/wingfield_et_al-2017_philtrans/</link>
+      <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/wingfield_et_al-2017_philtrans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flexible reaction norms to environmental variables along the migration route and the significance of stopover duration for total speed of migration in a songbird migrant</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/schmaljohann_et_al-2017-frontzool/</link>
+      <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/schmaljohann_et_al-2017-frontzool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consistent variation in individual migration strategies of brown skuas</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/krietsch_et_al_2017-meps/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/krietsch_et_al_2017-meps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tracking the full annual-cycle of the Great Knot, Calidris tenuirostris, a long-distance migratory shorebird of the East Asian-Australasian Flyway</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/lisovski_et_al-2016-waderstudy/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/lisovski_et_al-2016-waderstudy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geographic variation in seasonality and its influence on the dynamics of an infectious disease</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/lisovski_et_al-2017-oikos/</link>
+      <pubDate>Sat, 22 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/lisovski_et_al-2017-oikos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tracking the Stejneger&#39;s stonechat Saxicola stejnegeri along the East Asian–Australian Flyway from Japan via China to southeast Asia</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/yamaura_et_al-2015-avianbiol/</link>
+      <pubDate>Wed, 15 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/yamaura_et_al-2015-avianbiol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Body shrinkage due to Arctic warming reduces red knot fitness in tropical wintering range</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/vangils_et_al-2016-science/</link>
+      <pubDate>Fri, 13 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/vangils_et_al-2016-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sex-Specific Arrival Times on the Breeding Grounds: Hybridizing Migratory Skuas Provide Empirical Support for the Role of Sex Ratios</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/lisovski_et_al-2016-amnat/</link>
+      <pubDate>Mon, 22 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/lisovski_et_al-2016-amnat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Avian influenza in Australia: a summary of 5 years of wild bird surveillance</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/grillo_et_al_2016-ausvetj/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/grillo_et_al_2016-ausvetj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Long-term dataset reveals declines in breeding success and high fluctuations in the number of breeding pairs in two skua species breeding on King George Island</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/krietsch_et_al-2016-polbiol/</link>
+      <pubDate>Thu, 15 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/krietsch_et_al-2016-polbiol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Timing is crucial for consequences of migratory connectivity</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/bauer_et_al-2016-oikos/</link>
+      <pubDate>Wed, 07 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/bauer_et_al-2016-oikos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Movement patterns of Sanderling (Calidris alba) in the East Asian-Australasian Flyway and a comparison of methods for identification of crucial areas for conservation</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/lisovski_at_al-2016-emu/</link>
+      <pubDate>Mon, 20 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/lisovski_at_al-2016-emu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variable detours in long-distance migration across ecological barriers and their relation to habitat availability at ground</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/hahn_et_al_2014-ecolevol/</link>
+      <pubDate>Tue, 14 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/hahn_et_al_2014-ecolevol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First insights into the migration route and migratory connectivity of the Paddyfield Warbler using geolocator tagging and stable isotope analysis</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/salewski_et_al-2013-jorn/</link>
+      <pubDate>Sat, 01 Dec 2012 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/salewski_et_al-2013-jorn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GeoLight – processing and analysing light‐based geolocator data in R</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/lisovski_hahn-2012-methecolevol/</link>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/lisovski_hahn-2012-methecolevol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geolocation by light: accuracy and precision affected by environmental factors</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/lisovski_et_al-2012-methecolevol/</link>
+      <pubDate>Tue, 07 Feb 2012 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/lisovski_et_al-2012-methecolevol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>South polar skuas from a single breeding population overwinter in different oceans though show similar migration patterns</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/kopp_et_al-2011-meps/</link>
+      <pubDate>Mon, 22 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/kopp_et_al-2011-meps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First breeding record of the light-mantled sooty albatross (Phoebetria palpebrata) for the maritime Antarctic</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/lisovski_et_al-2009-polbiol/</link>
+      <pubDate>Fri, 07 Aug 2009 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/lisovski_et_al-2009-polbiol/</guid>
+      <description></description>
     </item>
     
     <item>

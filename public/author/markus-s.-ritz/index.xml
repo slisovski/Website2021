@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markus S. Ritz | Simeon Lisovski Research</title>
+    <link>https://slisovski.rbind.io/author/markus-s.-ritz/</link>
+      <atom:link href="https://slisovski.rbind.io/author/markus-s.-ritz/index.xml" rel="self" type="application/rss+xml" />
+    <description>Markus S. Ritz</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 22 Feb 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://slisovski.rbind.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Markus S. Ritz</title>
+      <link>https://slisovski.rbind.io/author/markus-s.-ritz/</link>
+    </image>
+    
+    <item>
+      <title>Sex-Specific Arrival Times on the Breeding Grounds: Hybridizing Migratory Skuas Provide Empirical Support for the Role of Sex Ratios</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/lisovski_et_al-2016-amnat/</link>
+      <pubDate>Mon, 22 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/lisovski_et_al-2016-amnat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>South polar skuas from a single breeding population overwinter in different oceans though show similar migration patterns</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/kopp_et_al-2011-meps/</link>
+      <pubDate>Mon, 22 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/kopp_et_al-2011-meps/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
