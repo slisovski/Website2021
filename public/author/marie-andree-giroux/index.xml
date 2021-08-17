@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marie-Andrée Giroux | Simeon Lisovski Resaerch</title>
+    <link>https://slisovski.rbind.io/author/marie-andree-giroux/</link>
+      <atom:link href="https://slisovski.rbind.io/author/marie-andree-giroux/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marie-Andrée Giroux</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://slisovski.rbind.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Marie-Andrée Giroux</title>
+      <link>https://slisovski.rbind.io/author/marie-andree-giroux/</link>
+    </image>
+    
+    <item>
+      <title>Arctic terns from circumpolar breeding colonies share common migratory routes</title>
+      <link>https://slisovski.rbind.io/publication/journal-article/wong_et_al_2021-meps/</link>
+      <pubDate>Thu, 05 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/publication/journal-article/wong_et_al_2021-meps/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

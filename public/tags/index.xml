@@ -1,132 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Simeon Lisovski&#39;s personal webpage</title>
+    <title>Tags | Simeon Lisovski Resaerch</title>
     <link>https://slisovski.rbind.io/tags/</link>
-    <description>Recent content in Tags on Simeon Lisovski&#39;s personal webpage</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Fri, 02 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://slisovski.rbind.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Flyway</title>
-      <link>https://slisovski.rbind.io/tags/flyway/</link>
-      <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://slisovski.rbind.io/tags/flyway/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Optimal migration</title>
-      <link>https://slisovski.rbind.io/tags/optimal-migration/</link>
-      <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://slisovski.rbind.io/tags/optimal-migration/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Rosefinch</title>
-      <link>https://slisovski.rbind.io/tags/rosefinch/</link>
-      <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://slisovski.rbind.io/tags/rosefinch/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>era5</title>
-      <link>https://slisovski.rbind.io/tags/era5/</link>
-      <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://slisovski.rbind.io/tags/era5/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>R</title>
-      <link>https://slisovski.rbind.io/tags/r/</link>
-      <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://slisovski.rbind.io/tags/r/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>wind</title>
-      <link>https://slisovski.rbind.io/tags/wind/</link>
-      <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://slisovski.rbind.io/tags/wind/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>migration</title>
-      <link>https://slisovski.rbind.io/tags/migration/</link>
-      <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://slisovski.rbind.io/tags/migration/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>geolocation</title>
-      <link>https://slisovski.rbind.io/tags/geolocation/</link>
-      <pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://slisovski.rbind.io/tags/geolocation/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Disease dynamics</title>
-      <link>https://slisovski.rbind.io/tags/disease-dynamics/</link>
-      <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://slisovski.rbind.io/tags/disease-dynamics/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Shorebirds</title>
-      <link>https://slisovski.rbind.io/tags/shorebirds/</link>
-      <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://slisovski.rbind.io/tags/shorebirds/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Stochastic dynamic programing</title>
-      <link>https://slisovski.rbind.io/tags/stochastic-dynamic-programing/</link>
-      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://slisovski.rbind.io/tags/stochastic-dynamic-programing/</guid>
-      
-        <description></description>
-      
-    </item>
+      <atom:link href="https://slisovski.rbind.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 06 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://slisovski.rbind.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Tags</title>
+      <link>https://slisovski.rbind.io/tags/</link>
+    </image>
     
   </channel>
 </rss>

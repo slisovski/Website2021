@@ -1,0 +1,1343 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.3.0 for Hugo" />
+  
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Simeon Lisovski" />
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Established in 1987, the ARGOS system allowed the world-wide tracking of animals equipped with satellite transmitters. This new technology provided unprecedented insights into the movements of animals. But the devices were bulky as well as heavy and not yet ready to track the majority of smaller species like birds." />
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://slisovski.rbind.io/post/geolocationuserguide/" />
+
+  
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    <meta name="theme-color" content="#1565c0" />
+  
+
+  
+  
+
+  
+  
+  
+  
+    
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous" media="print" onload="this.media='all'">
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
+        
+      
+    
+
+    
+    
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.css" integrity="sha512-1xoFisiGdy9nvho8EgXuXvnpR5GAMSjFwp40gSRE3NwdUdIMIKuPa7bqoUhLD0O/5tPNhteAsE5XyyMi5reQVA==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.f0cf03b20998d63e314819fa4a90c13f.css" />
+
+  
+
+
+
+  
+
+  
+
+  
+
+
+
+
+  
+  
+  
+
+  
+
+  
+    <link rel="manifest" href="/manifest.webmanifest" />
+  
+
+  <link rel="icon" type="image/png" href="/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_180x180_fill_lanczos_center_3.png" />
+
+  <link rel="canonical" href="https://slisovski.rbind.io/post/geolocationuserguide/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+  <meta property="twitter:card" content="summary_large_image" />
+  
+  <meta property="og:site_name" content="Simeon Lisovski Resaerch" />
+  <meta property="og:url" content="https://slisovski.rbind.io/post/geolocationuserguide/" />
+  <meta property="og:title" content="Light‐Level Geolocator Analyses: A user&#39;s guide | Simeon Lisovski Resaerch" />
+  <meta property="og:description" content="Established in 1987, the ARGOS system allowed the world-wide tracking of animals equipped with satellite transmitters. This new technology provided unprecedented insights into the movements of animals. But the devices were bulky as well as heavy and not yet ready to track the majority of smaller species like birds." /><meta property="og:image" content="https://slisovski.rbind.io/post/geolocationuserguide/featured.png" />
+    <meta property="twitter:image" content="https://slisovski.rbind.io/post/geolocationuserguide/featured.png" /><meta property="og:locale" content="en-us" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2019-12-11T00:00:00&#43;00:00"
+      />
+    
+    <meta property="article:modified_time" content="2019-12-11T00:00:00&#43;00:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://slisovski.rbind.io/post/geolocationuserguide/"
+  },
+  "headline": "Light‐Level Geolocator Analyses: A user's guide",
+  
+  "image": [
+    "https://slisovski.rbind.io/post/geolocationuserguide/featured.png"
+  ],
+  
+  "datePublished": "2019-12-11T00:00:00Z",
+  "dateModified": "2019-12-11T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Simeon Lisovski"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Simeon Lisovski Resaerch",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://slisovski.rbind.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_192x192_fill_lanczos_center_3.png"
+    }
+  },
+  "description": "Established in 1987, the ARGOS system allowed the world-wide tracking of animals equipped with satellite transmitters. This new technology provided unprecedented insights into the movements of animals. But the devices were bulky as well as heavy and not yet ready to track the majority of smaller species like birds."
+}
+</script>
+
+  
+
+  
+
+  
+
+  
+
+
+
+
+
+  <title>Light‐Level Geolocator Analyses: A user&#39;s guide | Simeon Lisovski Resaerch</title>
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="73c06a6e6213bcea497f6770ed79ed77" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.8988fb2a4bba758785868cfcb5244555.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container-xl">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/">Simeon Lisovski Resaerch</a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/">Simeon Lisovski Resaerch</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#aboutme"><span>About me</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#posts"><span>Posts</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#projects"><span>Tutorials</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#publications"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+      
+      
+        
+          
+          <li class="nav-item d-none d-lg-inline-flex">
+            <a class="nav-link" href="https://twitter.com/S_Lisovski" data-toggle="tooltip" data-placement="bottom" title="Follow me on Twitter" target="_blank" rel="noopener" aria-label="Follow me on Twitter">
+              <i class="fab fa-twitter" aria-hidden="true"></i>
+            </a>
+          </li>
+        
+      
+
+      
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      
+      <li class="nav-item dropdown theme-dropdown">
+        <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+          <i class="fas fa-moon" aria-hidden="true"></i>
+        </a>
+        <div class="dropdown-menu">
+          <a href="#" class="dropdown-item js-set-theme-light">
+            <span>Light</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-dark">
+            <span>Dark</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-auto">
+            <span>Automatic</span>
+          </a>
+        </div>
+      </li>
+      
+
+      
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  </div>
+
+  <div class="page-body">
+    <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+
+
+<div class="article-container pt-3">
+  <h1>Light‐Level Geolocator Analyses: A user&#39;s guide</h1>
+
+  
+
+  
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      <a href="/author/simeon-lisovski/">Simeon Lisovski</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Dec 11, 2019
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    5 min read
+  </span>
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+
+
+
+
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 525px;">
+  <div style="position: relative">
+    <img src="/post/geolocationuserguide/featured_hub803dfcc323d1c8a66532dbe82c19687_290740_720x0_resize_lanczos_3.png" alt="" class="featured-image">
+    
+  </div>
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <p>Established in 1987, the ARGOS system allowed the world-wide tracking of animals equipped with satellite transmitters. This new technology provided unprecedented insights into the movements of animals. But the devices were bulky as well as heavy and not yet ready to track the majority of smaller species like birds. In search for alternatives, the biologist Rory Wilson recalled that early voyagers did not have on-board GPS, nor satellite transmitters to ascertain their position (1). Instead, they observed the sun`s trajectory to estimate their whereabouts, using the day length to derive latitude and the exact time of noon to estimate longitude. He concluded that a simple light sensor, which requires far less power than a satellite transmitter, may provide reliable information about seabird movements across the annual cycle. After designing tags that consisted of a light sensor, a clock, a memory chip, and a lithium battery, he first deployed these tags on wandering albatrosses and Magellanic penguins.</p>
+<p>Since then, geolocation by light has come a long way and is currently one of the most frequently used tracking technologies in bird migration research. A real boost in the number of applications happened after Bridget Stutchbury and her team deployed 1.5g geolocators developed by the British Antarctic Survey on different songbird species in 2008 (2). Recently, Migrate Technology Ltd. developed a 0.32g logger that successfully recorded a 13.000km migration route of 10g Willow warblers from Far East Russia to East Africa (3).</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="./Fig1.png" alt="png" loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p style="text-align: center; font-style: italic;">Figure 1: One of the first light-level geolocators deployed on an animal, a Magellanic penguin, to track its movement. The tag was developed, built and deployed by Rory Wilson, despite huge amount of flack for this approach criticising that this method was only good for revealing movement on an ocean basin scale. One of the most recent developed tag weights only 0.35 g (from Migrate Technology Ltd.) and was used to track a 10 g Willow warbler (right). Image credits: Rory Wilson (left, centre), Harald Ris (right).</p>
+<p>However, there was not only the need to build smaller and smaller tags, but to develop tools and methods that produce scientifically sound and reproducible tracks from light intensity recordings. The major downside of this technology is arguable the low accuracy compared to satellite mediated locations that results from the fact that light almost never hits the sensor of the logger without some level of shading. And even worse, the very same amount of shading has a very different effect on the accuracy depending on the time of the year and the actual location of the logger on the globe. Thus, researcher regularly struggled in the analysis and interpretation of the results.</p>
+<p>In 2011 the Swiss Ornithological Institute organised a first international workshop, at a beautiful site in the Alps, to discuss methods and potential developments of open source tools for the analysis of geolocator data. The National Center for Ecological Analysis and Synthesis funded another meeting in 2013 taking place in Santa Barbara, California. Stimulated or improved by these meetings, various R packages and other open source tools emerged that allow users to apply different theories and use additional information to improve the accuracy and precision of location estimates based on light recordings.
+In our &lsquo;HOW TO&hellip;&rsquo; paper that is part of the special issue on biologging in Journal of Animal Ecology (Lisovski et al. 2020) we now provide an overview of the different tools that may help in choosing an appropriate analysis method. Furthermore, we give advice on how to interpret and report results and introduce a comprehensive online manual that applies the concepts to several datasets, demonstrates the use of open‐source analysis tools with step‐by‐step instructions and code and details our recommendations for interpreting, reporting and archiving <a href="https://geolocationmanual.vogelwarte.ch/" target="_blank" rel="noopener">link</a>.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="./Fig2.png" alt="png" loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p style="text-align: center; font-style: italic;">Figure 2: Coding jam at the 1st international workshop on how to best analyse light level geolocator data to ensure sound and reproducible results (left). Michael Sumner guide to geolocation by light (right): Photo credit: Felix Liechti.</p>
+<p>And even though satellite tags are becoming smaller and smaller too, allowing to track small birds with high accuracy, we consider our efforts to be of value to the research community for the years to come. In addition to the relatively low costs, several recent technological advancements will perhaps even increase the appeal of light level geolocators. The most important among them is probably the combination of light recording with other en-route data, such as air pressure, acceleration, magnetism and temperature. These additional data can facilitate the refinement of location estimates. For instance, acceleration data or changes in air pressure can distinguish movement and residency periods relatively easily, and such prior knowledge can then be fed into the stationary location estimation. These additional sensor data also provide a wealth of complementary information on fine‐scale behaviour: air pressure and temperature can be used to infer flight altitude and initiation and termination of migratory or foraging flights; acceleration data can be used to determine daily activity budgets and, given supplementary measurements, be related to energy expenditure and energy budgets; magnetic field data can be used to infer strategies in orientation and navigation during migration. Combining such behavioural information with refined, reliable and accurate location estimates can assist in identifying habitat associations of migrants or their responses to evolutionarily novel factors such as artificial light at night, sensory pollution or wind farms. This knowledge will improve our understanding of the fates of migrants and the bottlenecks they might experience at sensitive times and places, which will allow us to improve our conservation and management strategies for migratory populations.</p>
+<blockquote>
+<p>link to the online user guide: <a href="https://geolocationmanual.vogelwarte.ch/" target="_blank" rel="noopener">https://geolocationmanual.vogelwarte.ch/</a></p>
+</blockquote>
+<p><strong>Original publication:</strong> Lisovski, S., Bauer, S., Briedis, M., Davidson, S.C., Dhanjal-Adams, K.L., Hallworth, M.T., Karagicheva, J., Meier, C.M., Merkel, B., Ouwehand, J., Pedersen, L., Rakhimberdiev, E., Roberto-Charron, A., Seavy, N.E., Sumner, M.D., Taylor, C.M., Wotherspoon, S.J. &amp; E.S. Bridge (2019) Light-Level Geolocator Analyses: A user’s guide. Journal of Animal Ecology. <a href="https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2656.13036" target="_blank" rel="noopener">link</a></p>
+<p>(1) Grémillet 2015 Research Gate. <a href="https://www.researchgate.net/publication/283091193_Let_there_be_light_-_My_personal_account_of_how_Rory_P_Wilson_invented_seabird_geolocation" target="_blank" rel="noopener">link</a>
+(2) Stutchbury et al. 2009 Science. [link](DOI: 10.1126/science.1166664)
+(3) Sokolovskis et al. 2018 Movement Ecology. <a href="https://movementecologyjournal.biomedcentral.com/articles/10.1186/s40462-018-0138-0" target="_blank" rel="noopener">link</a></p>
+
+    </div>
+
+    
+
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/geolocation/">Geolocation</a>
+  
+  <a class="badge badge-light" href="/tag/migration/">Migration</a>
+  
+  <a class="badge badge-light" href="/tag/r/">R</a>
+  
+</div>
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://slisovski.rbind.io/post/geolocationuserguide/&amp;text=Light%e2%80%90Level%20Geolocator%20Analyses:%20A%20user&amp;#39;s%20guide" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://slisovski.rbind.io/post/geolocationuserguide/&amp;t=Light%e2%80%90Level%20Geolocator%20Analyses:%20A%20user&amp;#39;s%20guide" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Light%e2%80%90Level%20Geolocator%20Analyses:%20A%20user&amp;#39;s%20guide&amp;body=https://slisovski.rbind.io/post/geolocationuserguide/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://slisovski.rbind.io/post/geolocationuserguide/&amp;title=Light%e2%80%90Level%20Geolocator%20Analyses:%20A%20user&amp;#39;s%20guide" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=Light%e2%80%90Level%20Geolocator%20Analyses:%20A%20user&amp;#39;s%20guide%20https://slisovski.rbind.io/post/geolocationuserguide/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://slisovski.rbind.io/post/geolocationuserguide/&amp;title=Light%e2%80%90Level%20Geolocator%20Analyses:%20A%20user&amp;#39;s%20guide" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="https://slisovski.rbind.io/"><img class="avatar mr-3 avatar-circle" src="/author/simeon-lisovski/avatar_hu4d44e3957a379897ff60bed6d97de970_492136_270x270_fill_q75_lanczos_center.jpg" alt="Simeon Lisovski"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="https://slisovski.rbind.io/">Simeon Lisovski</a></h5>
+      <h6 class="card-subtitle">Researcher</h6>
+      <p class="card-text">My research interests include animal migration, global change biology, remote sensing and wildife infectious disease dynamics.</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/#contact" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/S_Lisovski" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?user=3y8AwdsAAAAJ&amp;hl=de&amp;oi=ao" target="_blank" rel="noopener">
+        <i class="fas fa-graduation-cap"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/slisovski" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://orcid.org/0000-0002-6399-0035" target="_blank" rel="noopener">
+        <i class="fab fa-orcid"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/publication/journal-article/conklin2021/">Advancement in long-distance bird migration through individual plasticity in departure</a></li>
+      
+      <li><a href="/publication/journal-article/wong_et_al_2021-meps/">Arctic terns from circumpolar breeding colonies share common migratory routes</a></li>
+      
+      <li><a href="/project/era5download/">ERA5: Download via R</a></li>
+      
+      <li><a href="/project/simmove/">Animal tracks on a globe with R</a></li>
+      
+      <li><a href="/post/huntingmodel/">Mitigating conflicts between agriculture and migratory geese: is shooting a viable option or just passing on the problem?</a></li>
+      
+    </ul>
+  </div>
+  
+
+
+
+
+
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+  
+
+  
+
+  
+
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/instant.page/5.1.0/instantpage.min.js" integrity="sha512-1+qUtKoh9XZW7j+6LhRMAyOrgSQKenQ4mluTR+cvxXjP1Z54RxZuzstR/H9kgPXQsVB8IW7DMDFUJpzLjvhGSQ==" crossorigin="anonymous"></script>
+
+      
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      
+
+      
+      
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/highlight.min.js" integrity="sha512-TDKKr+IvoqZnPzc3l35hdjpHD0m+b2EC2SrLEgKDRWpxf2rFCxemkgvJ5kfU48ip+Y+m2XVKyOCD85ybtlZDmw==" crossorigin="anonymous"></script>
+        
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/r.min.js" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/python.min.js" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/latex.min.js" crossorigin="anonymous"></script>
+        
+      
+
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.js" integrity="sha512-SeiQaaDh73yrb56sTW/RgVdi/mMqNeM2oBwubFHagc5BkixSpP1fvqF47mKzPGWYSSy4RwbBunrJBQ4Co8fRWA==" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    
+      
+      <script id="search-hit-fuse-template" type="text/x-template">
+        <div class="search-hit" id="summary-{{key}}">
+          <div class="search-hit-content">
+            <div class="search-hit-name">
+              <a href="{{relpermalink}}">{{title}}</a>
+              <div class="article-metadata search-hit-type">{{type}}</div>
+              <p class="search-hit-description">{{snippet}}</p>
+            </div>
+          </div>
+        </div>
+      </script>
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+      
+    
+
+    
+    
+
+    
+    
+    
+    
+
+    
+    <script src="/js/bootstrap.bundle.min.6aed84840afc03ab4d5750157f69c120.js"></script>
+
+    
+    
+      
+      
+      
+      
+      
+      
+      
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    <script src="/en/js/wowchemy.min.d68ecd57c0ec1f1f61d65fd568f1c3a0.js"></script>
+
+    
+  <script async defer src="https://buttons.github.io/buttons.js"></script>
+
+
+
+
+</body>
+</html>

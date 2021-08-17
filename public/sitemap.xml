@@ -2,73 +2,190 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://slisovski.rbind.io/about/</loc>
-    <lastmod>2021-08-11T00:00:00+00:00</lastmod>
+    <loc>https://slisovski.rbind.io/courses/example/python/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://slisovski.rbind.io/blogposts/</loc>
-    <lastmod>2021-07-02T00:00:00+00:00</lastmod>
+    <loc>https://slisovski.rbind.io/courses/example/visualization/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://slisovski.rbind.io/tags/flyway/</loc>
-    <lastmod>2021-07-02T00:00:00+00:00</lastmod>
+    <loc>https://slisovski.rbind.io/courses/example/stats/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://slisovski.rbind.io/blogposts/rosefinch/index/</loc>
-    <lastmod>2021-07-02T00:00:00+00:00</lastmod>
+    <loc>https://slisovski.rbind.io/talk/example-talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://slisovski.rbind.io/tags/optimal-migration/</loc>
-    <lastmod>2021-07-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://slisovski.rbind.io/tags/rosefinch/</loc>
-    <lastmod>2021-07-02T00:00:00+00:00</lastmod>
+    <loc>https://slisovski.rbind.io/event/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
     <loc>https://slisovski.rbind.io/</loc>
-    <lastmod>2021-07-02T00:00:00+00:00</lastmod>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://slisovski.rbind.io/publication-type/2/</loc>
+    <lastmod>2021-08-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://slisovski.rbind.io/publication/journal-article/conklin2021/</loc>
+    <lastmod>2021-08-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://slisovski.rbind.io/authors/</loc>
+    <lastmod>2021-08-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://slisovski.rbind.io/tag/global-change/</loc>
+    <lastmod>2021-08-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://slisovski.rbind.io/author/jesse-r.-conklin/</loc>
+    <lastmod>2021-08-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://slisovski.rbind.io/tag/migration/</loc>
+    <lastmod>2021-08-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://slisovski.rbind.io/tag/phenology/</loc>
+    <lastmod>2021-08-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://slisovski.rbind.io/author/phil-f.-battley/</loc>
+    <lastmod>2021-08-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://slisovski.rbind.io/publication_types/</loc>
+    <lastmod>2021-08-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://slisovski.rbind.io/publication/</loc>
+    <lastmod>2021-08-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://slisovski.rbind.io/tag/seasonal-change/</loc>
+    <lastmod>2021-08-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://slisovski.rbind.io/author/simeon-lisovski/</loc>
+    <lastmod>2021-08-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://slisovski.rbind.io/tags/</loc>
+    <lastmod>2021-08-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://slisovski.rbind.io/tag/arctic-terns/</loc>
+    <lastmod>2021-08-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://slisovski.rbind.io/publication/journal-article/wong_et_al_2021-meps/</loc>
+    <lastmod>2021-08-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://slisovski.rbind.io/author/autumn-lynn-harrison/</loc>
+    <lastmod>2021-08-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://slisovski.rbind.io/author/avery-nagy-macarthur/</loc>
+    <lastmod>2021-08-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://slisovski.rbind.io/tag/conservation/</loc>
+    <lastmod>2021-08-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://slisovski.rbind.io/author/dana-kellett/</loc>
+    <lastmod>2021-08-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://slisovski.rbind.io/author/joanna-b-wong/</loc>
+    <lastmod>2021-08-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://slisovski.rbind.io/author/marie-auger-methe/</loc>
+    <lastmod>2021-08-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://slisovski.rbind.io/author/marie-andree-giroux/</loc>
+    <lastmod>2021-08-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://slisovski.rbind.io/author/mark-l-mallory/</loc>
+    <lastmod>2021-08-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://slisovski.rbind.io/author/mark-maftey/</loc>
+    <lastmod>2021-08-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://slisovski.rbind.io/author/nicolas-lecomte/</loc>
+    <lastmod>2021-08-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://slisovski.rbind.io/author/paul-a-smith/</loc>
+    <lastmod>2021-08-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://slisovski.rbind.io/author/ray-t-alisauskas/</loc>
+    <lastmod>2021-08-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://slisovski.rbind.io/author/robert-a-ronconi/</loc>
+    <lastmod>2021-08-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://slisovski.rbind.io/author/willow-english/</loc>
+    <lastmod>2021-08-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://slisovski.rbind.io/tag/flyway/</loc>
     <lastmod>2021-07-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://slisovski.rbind.io/tags/era5/</loc>
+    <loc>https://slisovski.rbind.io/post/rosefinch/</loc>
+    <lastmod>2021-07-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://slisovski.rbind.io/tag/optimal-migration/</loc>
+    <lastmod>2021-07-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://slisovski.rbind.io/post/</loc>
+    <lastmod>2021-07-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://slisovski.rbind.io/tag/rosefinch/</loc>
+    <lastmod>2021-07-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://slisovski.rbind.io/tag/era5/</loc>
     <lastmod>2021-05-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://slisovski.rbind.io/tutorials/era5download/</loc>
+    <loc>https://slisovski.rbind.io/project/era5download/</loc>
     <lastmod>2021-05-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://slisovski.rbind.io/tags/r/</loc>
+    <loc>https://slisovski.rbind.io/project/</loc>
     <lastmod>2021-05-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://slisovski.rbind.io/tutorials/</loc>
+    <loc>https://slisovski.rbind.io/tag/r/</loc>
     <lastmod>2021-05-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://slisovski.rbind.io/tags/wind/</loc>
+    <loc>https://slisovski.rbind.io/tag/wind/</loc>
     <lastmod>2021-05-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://slisovski.rbind.io/tutorials/simmove/</loc>
+    <loc>https://slisovski.rbind.io/tag/animal-tracks/</loc>
     <lastmod>2021-04-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://slisovski.rbind.io/tags/migration/</loc>
+    <loc>https://slisovski.rbind.io/project/simmove/</loc>
     <lastmod>2021-04-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://slisovski.rbind.io/tags/geolocation/</loc>
+    <loc>https://slisovski.rbind.io/tag/rayshader/</loc>
+    <lastmod>2021-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://slisovski.rbind.io/courses/</loc>
+    <lastmod>2021-01-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://slisovski.rbind.io/courses/example/</loc>
+    <lastmod>2021-01-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://slisovski.rbind.io/tag/geolocation/</loc>
     <lastmod>2019-12-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://slisovski.rbind.io/blogposts/geolocationuserguide/index/</loc>
+    <loc>https://slisovski.rbind.io/post/geolocationuserguide/</loc>
     <lastmod>2019-12-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://slisovski.rbind.io/tags/disease-dynamics/</loc>
+    <loc>https://slisovski.rbind.io/tag/disease-dynamics/</loc>
     <lastmod>2019-08-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://slisovski.rbind.io/blogposts/virusstints/index/</loc>
+    <loc>https://slisovski.rbind.io/post/virusstints/</loc>
     <lastmod>2019-08-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://slisovski.rbind.io/tags/shorebirds/</loc>
+    <loc>https://slisovski.rbind.io/author/michelle-wille/</loc>
     <lastmod>2019-08-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://slisovski.rbind.io/blogposts/huntingmodel/index/</loc>
+    <loc>https://slisovski.rbind.io/tag/shorebirds/</loc>
+    <lastmod>2019-08-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://slisovski.rbind.io/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://slisovski.rbind.io/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://slisovski.rbind.io/post/huntingmodel/</loc>
     <lastmod>2018-05-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://slisovski.rbind.io/tags/stochastic-dynamic-programing/</loc>
+    <loc>https://slisovski.rbind.io/author/silke-bauer/</loc>
     <lastmod>2018-05-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://slisovski.rbind.io/publications/</loc>
+    <loc>https://slisovski.rbind.io/tag/stochastic-dynamic-programing/</loc>
+    <lastmod>2018-05-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://slisovski.rbind.io/admin/</loc>
   </url><url>
     <loc>https://slisovski.rbind.io/categories/</loc>
   </url>

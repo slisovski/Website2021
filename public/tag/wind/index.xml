@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>wind | Simeon Lisovski Resaerch</title>
+    <link>https://slisovski.rbind.io/tag/wind/</link>
+      <atom:link href="https://slisovski.rbind.io/tag/wind/index.xml" rel="self" type="application/rss+xml" />
+    <description>wind</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 26 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://slisovski.rbind.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>wind</title>
+      <link>https://slisovski.rbind.io/tag/wind/</link>
+    </image>
+    
+    <item>
+      <title>ERA5: Download via R</title>
+      <link>https://slisovski.rbind.io/project/era5download/</link>
+      <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://slisovski.rbind.io/project/era5download/</guid>
+      <description>
+&lt;script src=&#34;https://slisovski.rbind.io/project/era5download/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;You can downlaod wind (horizontal) u und (vertical) v vectors on a global scale for different pressure levels (altitudes) from the ERA-5 dataset.
+Batch download requests can be done with python code that can be run via RStudio.&lt;/p&gt;
+&lt;p&gt;First, you need to create an account with &lt;a href=&#34;https://www.ecmwf.int/&#34;&gt;ECWMF&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Next, you need to have some kind of Python compiler installed on you pc/mac. See &lt;a href=&#34;https://rstudio.github.io/reticulate/&#34; class=&#34;uri&#34;&gt;https://rstudio.github.io/reticulate/&lt;/a&gt; for explanations. This link may also help to get the minimum required python stuff installed (&lt;a href=&#34;https://docs.conda.io/en/latest/miniconda.html&#34; class=&#34;uri&#34;&gt;https://docs.conda.io/en/latest/miniconda.html&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;You need to following packages:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;library(reticulate)
+library(glue)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Set your Python environment.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;use_virtualenv(&amp;quot;~/Documents/Virtualenv&amp;quot;, required = TRUE) ## here, I have installed python 3&lt;/code&gt;&lt;/pre&gt;
+&lt;div id=&#34;test&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Test&lt;/h2&gt;
+&lt;p&gt;As a test, downlad the global wind dataset for a specific day and two specific pressure levels:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;date    &amp;lt;- as.POSIXct(&amp;quot;2020-10-08&amp;quot;)
+plevels &amp;lt;- glue_collapse(glue(&amp;quot;&amp;#39;{c(650, 1000)}&amp;#39;&amp;quot;), &amp;quot;, &amp;quot;)
+
+py_run_string(glue(
+          &amp;quot;
+          import cdsapi
+          c = cdsapi.Client()
+          
+          c.retrieve(
+          &amp;#39;reanalysis-era5-pressure-levels&amp;#39;,
+          {{
+              &amp;#39;product_type&amp;#39;: &amp;#39;reanalysis&amp;#39;,
+              &amp;#39;format&amp;#39;: &amp;#39;netcdf&amp;#39;,
+              &amp;#39;variable&amp;#39;: [
+                  &amp;#39;u_component_of_wind&amp;#39;, &amp;#39;v_component_of_wind&amp;#39;,
+              ],
+              &amp;#39;pressure_level&amp;#39;: [{plevels},],
+              &amp;#39;year&amp;#39;: &amp;#39;{format(date, &amp;#39;%Y&amp;#39;)}&amp;#39;,
+              &amp;#39;month&amp;#39;: &amp;#39;{format(date, &amp;#39;%m&amp;#39;)}&amp;#39;,
+              &amp;#39;day&amp;#39;: &amp;#39;{format(date, &amp;#39;%d&amp;#39;)}&amp;#39;,
+              &amp;#39;time&amp;#39;: [&amp;#39;12:00&amp;#39;,],
+          }},
+          &amp;#39;ERA5_wind_{format(date, &amp;#39;%Y&amp;#39;)}_{format(date, &amp;#39;%m&amp;#39;)}_{format(date, &amp;#39;%d&amp;#39;)}.nc&amp;#39;) 
+          &amp;quot;
+          ))&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;load-into-r&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Load into R&lt;/h2&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;library(raster)
+library(ncdf4)
+library(sf)
+library(rnaturalearthdata)
+
+## read data for first pressure level [[1]]
+uRaster &amp;lt;- brick(glue(&amp;quot;ERA5_wind_{format(date, &amp;#39;%Y&amp;#39;)}_{format(date, &amp;#39;%m&amp;#39;)}_{format(date, &amp;#39;%d&amp;#39;)}.nc&amp;quot;), varname=  &amp;quot;u&amp;quot;)[[1]] 
+vRaster &amp;lt;- brick(glue(&amp;quot;ERA5_wind_{format(date, &amp;#39;%Y&amp;#39;)}_{format(date, &amp;#39;%m&amp;#39;)}_{format(date, &amp;#39;%d&amp;#39;)}.nc&amp;quot;), varname=  &amp;quot;v&amp;quot;)[[1]]
+
+speedRaster &amp;lt;- rotate(sqrt((uRaster^2)+(vRaster^2))) ## rotate to have -180 to 180 degrees (otherwhise 0 to 360)
+# plot(speedRaster)
+# plot(rnaturalearthdata::coastline50, add = T)&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
